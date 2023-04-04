@@ -1,0 +1,31 @@
+This is a landing page. It is meant to be something viewed online and will serve as practice for understanding layouts of content and the like. It should have some links to my socials and to some related websites.
+<HEAD>SCON3KT</HEAD>
+<CONTENT>
+Welcome to SCON3KT
+
+A platform to find and advertise products and services, grow bussinesses, share hobbies and interests, discover clubs, join religious groups and meet like minded students.
+Intuitive easy to use interface(Insert Screenshots of Android and iOS Usage below)
+Did you know that the time you spend in University is the last opportunity you'd have to meet a high concentration of people with similar interests, goals, life experiences and hobbies? A large group of people from various walks of life, all with different stories to tell and ideas to share? In short the largest selection/collection of potential lifelong-friends, lovers, business contacts yet most of us will never meet these people. No fault of our own, we just don't have the time or the context to create the oppurtunities to meet these people. 
+SCON3KT aims to make it easier for you to meet like minded people by (sharing what it is that connects them) thus makeing it easier for them to interact. 
+
+Ever wondered what kinds of people are in school? Really wanted to broaden your horizons? Join new Clubs? Try new things? 
+Download SCON3KT today!
+ <(Android apk)> <(iOS apk equivalent)>
+ 
+The iOS (apk equivalent) is not available on the App Store, to install it be sure to follow <these> instructions to allow installation from trusted sources.
+
+DISCLAIMER: The party managing this site has no affiliation with any particular University, our app is privately owned and managed.
+
+</CONTENT>
+
+LAYOUT SYSTEM
+
+All the content should be centered. 
+Make the background have this color code RGB (97,108,163)/ #616CA3
+The Welcome part should be large and bold.
+Segmaentalise the content
+The download links should be large(relatively large pictures of android and ios logos)
+The disclaimer should be at the very bottom of the page
+let the highlighted text links go to 'google.com' when clicked.
+ 
+I have used the tag formatting common to html to denote bodies of text and content, however the words encased in '< >' are to be text that when pressed links to a website or downloads something.
